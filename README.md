@@ -8,7 +8,7 @@ Simple Node/Express app which listens on port 3000 and returns 'Hello World!!!'
     ```
     git clone <%REMOTE_REPO_PATH%>
     ```
-2. Get the dependencies for the project by using: (inside the cloned directory) 
+2. Get the dependencies for the project by using (inside the cloned directory):  
     ```
     npm install
     ```
